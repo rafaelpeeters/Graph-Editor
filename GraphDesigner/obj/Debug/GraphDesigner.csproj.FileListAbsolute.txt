@@ -1,0 +1,22 @@
+\\iut.bx\Etudiants\Home\zsabri\Documents\R2.02\GraphDesigner\GraphDesigner\bin\Debug\GraphDesigner.exe.config
+\\iut.bx\Etudiants\Home\zsabri\Documents\R2.02\GraphDesigner\GraphDesigner\bin\Debug\GraphDesigner.exe
+\\iut.bx\Etudiants\Home\zsabri\Documents\R2.02\GraphDesigner\GraphDesigner\bin\Debug\GraphDesigner.pdb
+\\iut.bx\Etudiants\Home\zsabri\Documents\R2.02\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.csproj.AssemblyReference.cache
+\\iut.bx\Etudiants\Home\zsabri\Documents\R2.02\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.MainWindow.resources
+\\iut.bx\Etudiants\Home\zsabri\Documents\R2.02\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.Properties.Resources.resources
+\\iut.bx\Etudiants\Home\zsabri\Documents\R2.02\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.csproj.GenerateResource.cache
+\\iut.bx\Etudiants\Home\zsabri\Documents\R2.02\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.csproj.CoreCompileInputs.cache
+\\iut.bx\Etudiants\Home\zsabri\Documents\R2.02\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.exe
+\\iut.bx\Etudiants\Home\zsabri\Documents\R2.02\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.pdb
+\\iut.bx\Etudiants\Home\zsabri\Documents\R2.02\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.exe.config
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\bin\Debug\GraphDesigner.exe.config
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\bin\Debug\GraphDesigner.exe
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\bin\Debug\GraphDesigner.pdb
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.csproj.AssemblyReference.cache
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.exe.config
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.MainWindow.resources
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.Properties.Resources.resources
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.csproj.GenerateResource.cache
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.csproj.CoreCompileInputs.cache
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.exe
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.pdb

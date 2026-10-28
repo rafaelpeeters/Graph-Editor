@@ -1,0 +1,12 @@
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\bin\Debug\GraphDesigner.exe.config
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\bin\Debug\GraphDesigner.exe
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\bin\Debug\GraphDesigner.pdb
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDrawing.csproj.AssemblyReference.cache
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.exe.config
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.MainWindow.resources
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.Properties.Resources.resources
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDrawing.csproj.GenerateResource.cache
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDrawing.csproj.CoreCompileInputs.cache
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.exe
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.pdb
+Z:\R2.02 dev IHM\GraphDesigner\GraphDesigner\obj\Debug\GraphDesigner.NodeSettings.resources
